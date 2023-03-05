@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-03-05T18:30:19+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Building websites with distill for Agape community website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-03-05T18:30:21+00:00"
+    }
+  ],
+  "collections": []
+}
